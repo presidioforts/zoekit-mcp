@@ -1,0 +1,2 @@
+# zoekit-mcp
+code search
